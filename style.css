@@ -1,0 +1,17 @@
+body {  
+    font-family: Arial, sans-serif;  
+    text-align: center;  
+    background-color: #f4f4f4;  
+    padding: 20px;  
+}  
+
+input {  
+    padding: 10px;  
+    margin-top: 10px;  
+}
+@media (max-width: 600px) {  
+    body {  
+        font-size: 14px; /* Riduci la dimensione del font per schermi piccoli */  
+    }  
+    /* Altri stili per layout mobile */  
+}
